@@ -1,2 +1,2 @@
-# Learning-Path
-Getting started with pyhton
+# Learning-Python
+Getting started with python
